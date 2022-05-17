@@ -30,4 +30,4 @@ const cakeE: Cake = {
   density: 5,
 };
 
-export const cakes = [cakeA, cakeB, cakeC, cakeD];
+export const cakes = [cakeA, cakeB, cakeC, cakeD, cakeE];

@@ -73,16 +73,6 @@ for (let i = 0; i < lasersAndReceivers.lasers.length; i++) {
       }
     }
 
-    if (startPointWhereLaserHitSomething && densityOfSomethingThatLaserHit) {
-      laserValueLost =
-        laserValueLost +
-        getLaserLostValue({
-          laserStartHitPoint: startPointWhereLaserHitSomething,
-          laserEndHitPoint: pointsOnTheLaser[pointsOnTheLaser.length - 1],
-          density: densityOfSomethingThatLaserHit,
-        });
-    }
-
     output[i][j] = laserValueLost;
   }
 }
