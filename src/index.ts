@@ -9,12 +9,14 @@ import { cakes } from "./dataset";
 const output: number[][] = [];
 
 // configurable
-const countLasers = 5;
+const countLasers = 10;
 const countT = 1000; // higher T => more points on the line
 // end configurable
 
 const tList = createTList(countT);
 const lasersAndReceivers = createLasersAndReceivers(countLasers);
+
+console.log(lasersAndReceivers);
 
 const getCakeThatContainsPoint = makeGetCakeThatContainsPoint(cakes);
 
@@ -48,7 +50,7 @@ for (let i = 0; i < lasersAndReceivers.lasers.length; i++) {
             getLaserLostValue({
               laserStartHitPoint: startPointWhereLaserHitSomething,
               laserEndHitPoint: pointsOnTheLaser[k],
-              density: cake.density,
+              density: densityOfSomethingThatLaserHit!,
             });
 
           startPointWhereLaserHitSomething = pointsOnTheLaser[k];

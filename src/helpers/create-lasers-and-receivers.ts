@@ -2,7 +2,8 @@ import { Point } from "../types";
 
 export const createLasersAndReceivers = (countElements: number) => {
   const positions: number[] = [];
-  const spaceBetweenElements = (100 / (countElements - 1)) * 0.01 * 2;
+
+  const spaceBetweenElements = 2 / (countElements - 1);
 
   let currentPossition = -1;
 
