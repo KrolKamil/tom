@@ -1,0 +1,3726 @@
+[
+    [
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.28400000000000025
+            },
+            {
+                "fieldId": 36,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 29,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 22,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 15,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 8,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.28400000000000003
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 36,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 29,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 22,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 15,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 8,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.2909278473190202
+            },
+            {
+                "fieldId": 36,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 29,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 22,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 15,
+                "distance": 0.1454639236595101
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.1475127113166863
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.2993622851626068
+            },
+            {
+                "fieldId": 36,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 29,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.2993622851626066
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.310786179523344
+            },
+            {
+                "fieldId": 36,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 29,
+                "distance": 0.0787908624143689
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.2341839521760409
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.155393089761672
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.1575817248287378
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.23418395217604093
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.07660222734730283
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.3248843288933679
+            },
+            {
+                "fieldId": 36,
+                "distance": 0.2631105480474457
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.06406169865503025
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.19676093158330718
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.13041131511916876
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.13041131511916876
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.19676093158330735
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.32488432889336755
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.3413255207439246
+            },
+            {
+                "fieldId": 36,
+                "distance": 0.17306646122227162
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.17066276037196218
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.34372922159423397
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.3437292215942338
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.17066276037196235
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.17306646122227162
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.3437292215942339
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.34132552074392436
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.3597886896979505
+            },
+            {
+                "fieldId": 36,
+                "distance": 0.10388264984236599
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.25843976302247135
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.20776529968473198
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.15455711318010554
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.31164794952709785
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.05067446333773955
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.36232241286483746
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.050674463337739485
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.31164794952709807
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.15455711318010554
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.2052315765178447
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.37997920670855717
+            },
+            {
+                "fieldId": 36,
+                "distance": 0.04816637831516923
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.3344887382997862
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.09633275663033845
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.286322359984617
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.14449913494550767
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.23815598166944776
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.18998960335427853
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.1926655132606769
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.23815598166944776
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.14449913494550767
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.28632235998461714
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.09365684672393979
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.40163665171395935
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.40446507883870536
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.4044650788387055
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.40446507883870536
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.4044650788387055
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.4044650788387055
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.40163665171395907
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 36,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 29,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 22,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 15,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 8,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.28400000000000025
+            },
+            {
+                "fieldId": 36,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 29,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 22,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 15,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 8,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.28400000000000003
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 36,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.2909278473190202
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.1454639236595101
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.1475127113166863
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.20027758514399752
+            },
+            {
+                "fieldId": 44,
+                "distance": 0.09908470001860929
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.2002775851439974
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.10119288512538822
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.20027758514399752
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.09908470001860908
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.155393089761672
+            },
+            {
+                "fieldId": 44,
+                "distance": 0.155393089761672
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.23418395217604088
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.0787908624143689
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.3107861795233438
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.1304113151191688
+            },
+            {
+                "fieldId": 44,
+                "distance": 0.194473013774199
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.32717224670247597
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.0663496164641385
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.26082263023833757
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.3271722467024759
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.26082263023833757
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.0663496164641385
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.32488432889336755
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.11297393996453844
+            },
+            {
+                "fieldId": 44,
+                "distance": 0.22835158077938617
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.28604040118680996
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.05768882040742388
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.3437292215942339
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.11537764081484776
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.22835158077938605
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.2860404011868101
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.05768882040742388
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.3437292215942339
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.11297393996453839
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.22835158077938597
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.10134892667547904
+            },
+            {
+                "fieldId": 44,
+                "distance": 0.25843976302247146
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.20776529968473198
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.15455711318010543
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.3116479495270979
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.05067446333773955
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.36232241286483735
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.050674463337739485
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.31164794952709796
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.15455711318010554
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.20776529968473198
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.25843976302247146
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.10134892667547879
+            }
+        ],
+        [
+            {
+                "fieldId": 43,
+                "distance": 0.09365684672394017
+            },
+            {
+                "fieldId": 44,
+                "distance": 0.286322359984617
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.14449913494550765
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.23815598166944774
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.1926655132606769
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.18998960335427853
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.23815598166944768
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.14449913494550776
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.286322359984617
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.09633275663033845
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.3344887382997862
+            },
+            {
+                "fieldId": 14,
+                "distance": 0.04816637831516923
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.37997920670855684
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "fieldId": 44,
+                "distance": 0.2909278473190202
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.1475127113166863
+            },
+            {
+                "fieldId": 29,
+                "distance": 0.1454639236595101
+            },
+            {
+                "fieldId": 22,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 15,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 8,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 44,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 8,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 44,
+                "distance": 0.28400000000000025
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.28400000000000003
+            }
+        ],
+        [
+            {
+                "fieldId": 44,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 44,
+                "distance": 0.2909278473190202
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.14546392365951014
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.14546392365950989
+            }
+        ],
+        [
+            {
+                "fieldId": 44,
+                "distance": 0.2993622851626068
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.10119288512538822
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.2002775851439974
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.10119288512538822
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.20027758514399754
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.2993622851626066
+            }
+        ],
+        [
+            {
+                "fieldId": 44,
+                "distance": 0.310786179523344
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.0787908624143689
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.2341839521760408
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.155393089761672
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.1575817248287378
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.3107861795233438
+            }
+        ],
+        [
+            {
+                "fieldId": 44,
+                "distance": 0.26082263023833757
+            },
+            {
+                "fieldId": 45,
+                "distance": 0.06406169865503025
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.32717224670247597
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.1967609315833073
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.13041131511916879
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.3271722467024759
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.1304113151191688
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.19676093158330726
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.06406169865503025
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.2608226302383373
+            }
+        ],
+        [
+            {
+                "fieldId": 44,
+                "distance": 0.22835158077938622
+            },
+            {
+                "fieldId": 45,
+                "distance": 0.11297393996453839
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.34372922159423386
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.05768882040742388
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.28604040118681007
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.22835158077938605
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.11537764081484776
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.34372922159423397
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.05768882040742388
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.28604040118681
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.22835158077938617
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.11297393996453821
+            }
+        ],
+        [
+            {
+                "fieldId": 44,
+                "distance": 0.20523157651784502
+            },
+            {
+                "fieldId": 45,
+                "distance": 0.15455711318010545
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.31164794952709785
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.05067446333773952
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.36232241286483746
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.050674463337739485
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.31164794952709785
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.15455711318010545
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.20776529968473198
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.25843976302247146
+            },
+            {
+                "fieldId": 14,
+                "distance": 0.10388264984236606
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.35978868969795025
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "fieldId": 45,
+                "distance": 0.2993622851626068
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.30147047026938567
+            },
+            {
+                "fieldId": 15,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 8,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.2993622851626066
+            }
+        ],
+        [
+            {
+                "fieldId": 45,
+                "distance": 0.2909278473190202
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.1475127113166863
+            },
+            {
+                "fieldId": 37,
+                "distance": 0.14546392365951002
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 45,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 45,
+                "distance": 0.28400000000000025
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.28400000000000003
+            }
+        ],
+        [
+            {
+                "fieldId": 45,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 45,
+                "distance": 0.2909278473190202
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 45,
+                "distance": 0.2993622851626068
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.2993622851626066
+            }
+        ],
+        [
+            {
+                "fieldId": 45,
+                "distance": 0.31078617952334403
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.1575817248287378
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.1553930897616719
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.2341839521760408
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.07879086241436893
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.3107861795233438
+            }
+        ],
+        [
+            {
+                "fieldId": 45,
+                "distance": 0.3248843288933678
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.0663496164641385
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.26082263023833746
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.3271722467024759
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.26082263023833757
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.0663496164641385
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.194473013774199
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.13041131511916854
+            }
+        ],
+        [
+            {
+                "fieldId": 45,
+                "distance": 0.3413255207439246
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.34372922159423386
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.17306646122227162
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.1706627603719623
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.3437292215942338
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.34372922159423397
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.17066276037196226
+            },
+            {
+                "fieldId": 14,
+                "distance": 0.17306646122227162
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.3413255207439244
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.07660222734730311
+            },
+            {
+                "fieldId": 45,
+                "distance": 0.2341839521760409
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.1575817248287378
+            },
+            {
+                "fieldId": 30,
+                "distance": 0.155393089761672
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.2341839521760409
+            },
+            {
+                "fieldId": 15,
+                "distance": 0.0787908624143689
+            },
+            {
+                "fieldId": 8,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.31078617952334375
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.0990847000186093
+            },
+            {
+                "fieldId": 45,
+                "distance": 0.20027758514399752
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.10119288512538822
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.2002775851439974
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.09908470001860929
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.2002775851439973
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.14546392365951014
+            },
+            {
+                "fieldId": 45,
+                "distance": 0.1454639236595101
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.28400000000000025
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.28400000000000003
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.29092784731902027
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.2993622851626068
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.20027758514399754
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.10119288512538822
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.20027758514399752
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.10119288512538822
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.2993622851626066
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.31078617952334403
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.0787908624143689
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.2341839521760409
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.15539308976167204
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.15539308976167174
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.3248843288933679
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.1967609315833073
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.13041131511916867
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.13041131511916879
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.19676093158330712
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.06406169865503025
+            },
+            {
+                "fieldId": 14,
+                "distance": 0.2631105480474458
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.32488432889336755
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.3248843288933679
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.1967609315833073
+            },
+            {
+                "fieldId": 38,
+                "distance": 0.13041131511916867
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.13041131511916879
+            },
+            {
+                "fieldId": 23,
+                "distance": 0.19676093158330712
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.06406169865503025
+            },
+            {
+                "fieldId": 8,
+                "distance": 0.2631105480474458
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.3248843288933676
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.31078617952334403
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.0787908624143689
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.2341839521760409
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.15539308976167204
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.15539308976167174
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.2993622851626068
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.20027758514399754
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.10119288512538822
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.20027758514399752
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.10119288512538822
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.2993622851626066
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.29092784731902027
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.28400000000000025
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.28400000000000003
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.14546392365951014
+            },
+            {
+                "fieldId": 47,
+                "distance": 0.1454639236595101
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.0990847000186093
+            },
+            {
+                "fieldId": 47,
+                "distance": 0.20027758514399752
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.10119288512538822
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.2002775851439974
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.09908470001860929
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.2002775851439973
+            }
+        ],
+        [
+            {
+                "fieldId": 46,
+                "distance": 0.07660222734730311
+            },
+            {
+                "fieldId": 47,
+                "distance": 0.2341839521760409
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.1575817248287378
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.155393089761672
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.2341839521760409
+            },
+            {
+                "fieldId": 21,
+                "distance": 0.0787908624143689
+            },
+            {
+                "fieldId": 14,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.3107861795233438
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "fieldId": 47,
+                "distance": 0.3413255207439246
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.34372922159423386
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.17306646122227162
+            },
+            {
+                "fieldId": 31,
+                "distance": 0.1706627603719623
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.3437292215942338
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.34372922159423397
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.17066276037196226
+            },
+            {
+                "fieldId": 8,
+                "distance": 0.17306646122227162
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.34132552074392436
+            }
+        ],
+        [
+            {
+                "fieldId": 47,
+                "distance": 0.3248843288933678
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.0663496164641385
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.26082263023833746
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.3271722467024759
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.26082263023833757
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.0663496164641385
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.194473013774199
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.13041131511916854
+            }
+        ],
+        [
+            {
+                "fieldId": 47,
+                "distance": 0.31078617952334403
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.1575817248287378
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.1553930897616719
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.2341839521760408
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.07879086241436893
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.3107861795233438
+            }
+        ],
+        [
+            {
+                "fieldId": 47,
+                "distance": 0.2993622851626068
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.2993622851626066
+            }
+        ],
+        [
+            {
+                "fieldId": 47,
+                "distance": 0.2909278473190202
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 47,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 47,
+                "distance": 0.28400000000000025
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.28400000000000003
+            }
+        ],
+        [
+            {
+                "fieldId": 47,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 47,
+                "distance": 0.2909278473190202
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.1475127113166863
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.14546392365951002
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 47,
+                "distance": 0.2993622851626068
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 21,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 14,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.29936228516260666
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "fieldId": 48,
+                "distance": 0.20523157651784502
+            },
+            {
+                "fieldId": 47,
+                "distance": 0.15455711318010545
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.31164794952709785
+            },
+            {
+                "fieldId": 39,
+                "distance": 0.05067446333773952
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.36232241286483746
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.050674463337739485
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.31164794952709785
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.15455711318010545
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.20776529968473198
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.25843976302247146
+            },
+            {
+                "fieldId": 8,
+                "distance": 0.10388264984236606
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.3597886896979502
+            }
+        ],
+        [
+            {
+                "fieldId": 48,
+                "distance": 0.22835158077938622
+            },
+            {
+                "fieldId": 47,
+                "distance": 0.11297393996453839
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.34372922159423386
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.05768882040742388
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.28604040118681007
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.22835158077938605
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.11537764081484776
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.34372922159423397
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.05768882040742388
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.28604040118681
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.22835158077938617
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.11297393996453821
+            }
+        ],
+        [
+            {
+                "fieldId": 48,
+                "distance": 0.26082263023833757
+            },
+            {
+                "fieldId": 47,
+                "distance": 0.06406169865503025
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.32717224670247597
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.1967609315833073
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.13041131511916879
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.3271722467024759
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.1304113151191688
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.19676093158330726
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.06406169865503025
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.2608226302383373
+            }
+        ],
+        [
+            {
+                "fieldId": 48,
+                "distance": 0.310786179523344
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.0787908624143689
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.2341839521760408
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.155393089761672
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.1575817248287378
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.3107861795233438
+            }
+        ],
+        [
+            {
+                "fieldId": 48,
+                "distance": 0.2993622851626068
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.10119288512538822
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.2002775851439974
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.10119288512538822
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.20027758514399754
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.2993622851626066
+            }
+        ],
+        [
+            {
+                "fieldId": 48,
+                "distance": 0.2909278473190202
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.14546392365951014
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.14546392365950989
+            }
+        ],
+        [
+            {
+                "fieldId": 48,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 48,
+                "distance": 0.28400000000000025
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.28400000000000003
+            }
+        ],
+        [
+            {
+                "fieldId": 48,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 14,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 48,
+                "distance": 0.2909278473190202
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.1475127113166863
+            },
+            {
+                "fieldId": 35,
+                "distance": 0.1454639236595101
+            },
+            {
+                "fieldId": 28,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 21,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 14,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.29092784731902005
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.09365684672394017
+            },
+            {
+                "fieldId": 48,
+                "distance": 0.286322359984617
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.1444991349455077
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.23815598166944774
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.1926655132606769
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.18998960335427853
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.23815598166944768
+            },
+            {
+                "fieldId": 24,
+                "distance": 0.14449913494550776
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.286322359984617
+            },
+            {
+                "fieldId": 16,
+                "distance": 0.09633275663033845
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.3344887382997862
+            },
+            {
+                "fieldId": 8,
+                "distance": 0.04816637831516923
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.37997920670855695
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.10134892667547904
+            },
+            {
+                "fieldId": 48,
+                "distance": 0.25843976302247146
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.20776529968473198
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.15455711318010543
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.3116479495270979
+            },
+            {
+                "fieldId": 32,
+                "distance": 0.05067446333773955
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.36232241286483735
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.050674463337739485
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.31164794952709796
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.15455711318010554
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.20776529968473198
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.25843976302247146
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.10134892667547879
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.11297393996453844
+            },
+            {
+                "fieldId": 48,
+                "distance": 0.22835158077938617
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.28604040118680996
+            },
+            {
+                "fieldId": 40,
+                "distance": 0.05768882040742388
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.3437292215942339
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.11537764081484776
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.22835158077938605
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.2860404011868101
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.05768882040742388
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.3437292215942339
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.11297393996453839
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.22835158077938597
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.1304113151191688
+            },
+            {
+                "fieldId": 48,
+                "distance": 0.194473013774199
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.32717224670247597
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.0663496164641385
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.26082263023833757
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.3271722467024759
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.26082263023833757
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.0663496164641385
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.32488432889336755
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.155393089761672
+            },
+            {
+                "fieldId": 48,
+                "distance": 0.155393089761672
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.23418395217604093
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.0787908624143689
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.3107861795233438
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.20027758514399752
+            },
+            {
+                "fieldId": 48,
+                "distance": 0.09908470001860929
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.2002775851439974
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.10119288512538822
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.20027758514399752
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.09908470001860908
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.2909278473190202
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.1454639236595101
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.1475127113166863
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 42,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.28400000000000025
+            },
+            {
+                "fieldId": 42,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 35,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 28,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 21,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 14,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.28400000000000003
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 42,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 35,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 28,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 21,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 14,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.2857477088034474
+            }
+        ]
+    ],
+    [
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.4016366517139593
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.40446507883870547
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.4044650788387055
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.40446507883870536
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.4044650788387055
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.4044650788387055
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.40163665171395896
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.3799792067085572
+            },
+            {
+                "fieldId": 42,
+                "distance": 0.04816637831516923
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.33448873829978615
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.09633275663033845
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.286322359984617
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.14449913494550767
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.23815598166944776
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.18998960335427853
+            },
+            {
+                "fieldId": 17,
+                "distance": 0.1926655132606769
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.23815598166944776
+            },
+            {
+                "fieldId": 9,
+                "distance": 0.14449913494550767
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.28632235998461714
+            },
+            {
+                "fieldId": 1,
+                "distance": 0.09365684672393979
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.3597886896979505
+            },
+            {
+                "fieldId": 42,
+                "distance": 0.10388264984236599
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.2584397630224714
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.20776529968473192
+            },
+            {
+                "fieldId": 33,
+                "distance": 0.15455711318010554
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.31164794952709785
+            },
+            {
+                "fieldId": 25,
+                "distance": 0.05067446333773955
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.36232241286483746
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.050674463337739485
+            },
+            {
+                "fieldId": 10,
+                "distance": 0.31164794952709807
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.15455711318010554
+            },
+            {
+                "fieldId": 2,
+                "distance": 0.2052315765178447
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.3413255207439246
+            },
+            {
+                "fieldId": 42,
+                "distance": 0.17306646122227162
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.17066276037196224
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.3437292215942339
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.3437292215942338
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.17066276037196235
+            },
+            {
+                "fieldId": 18,
+                "distance": 0.17306646122227162
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.3437292215942339
+            },
+            {
+                "fieldId": 3,
+                "distance": 0.34132552074392436
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.3248843288933679
+            },
+            {
+                "fieldId": 42,
+                "distance": 0.2631105480474457
+            },
+            {
+                "fieldId": 41,
+                "distance": 0.06406169865503031
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.19676093158330712
+            },
+            {
+                "fieldId": 26,
+                "distance": 0.13041131511916876
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.32717224670247613
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.13041131511916876
+            },
+            {
+                "fieldId": 11,
+                "distance": 0.19676093158330735
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.32488432889336755
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.310786179523344
+            },
+            {
+                "fieldId": 42,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 35,
+                "distance": 0.0787908624143689
+            },
+            {
+                "fieldId": 34,
+                "distance": 0.2341839521760409
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.3129748145904097
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.155393089761672
+            },
+            {
+                "fieldId": 19,
+                "distance": 0.1575817248287378
+            },
+            {
+                "fieldId": 12,
+                "distance": 0.3129748145904098
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.23418395217604093
+            },
+            {
+                "fieldId": 4,
+                "distance": 0.07660222734730283
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.2993622851626068
+            },
+            {
+                "fieldId": 42,
+                "distance": 0.3014704702693856
+            },
+            {
+                "fieldId": 35,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 27,
+                "distance": 0.30147047026938567
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.3014704702693858
+            },
+            {
+                "fieldId": 5,
+                "distance": 0.2993622851626066
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.2909278473190202
+            },
+            {
+                "fieldId": 42,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 35,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 28,
+                "distance": 0.29297663497619636
+            },
+            {
+                "fieldId": 21,
+                "distance": 0.1454639236595101
+            },
+            {
+                "fieldId": 20,
+                "distance": 0.1475127113166863
+            },
+            {
+                "fieldId": 13,
+                "distance": 0.29297663497619647
+            },
+            {
+                "fieldId": 6,
+                "distance": 0.29092784731902005
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.28574770880344763
+            },
+            {
+                "fieldId": 42,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 35,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 28,
+                "distance": 0.28776001661192246
+            },
+            {
+                "fieldId": 21,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 14,
+                "distance": 0.28776001661192263
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.2857477088034474
+            }
+        ],
+        [
+            {
+                "fieldId": 49,
+                "distance": 0.28400000000000025
+            },
+            {
+                "fieldId": 42,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 35,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 28,
+                "distance": 0.28600000000000014
+            },
+            {
+                "fieldId": 21,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 14,
+                "distance": 0.28600000000000025
+            },
+            {
+                "fieldId": 7,
+                "distance": 0.28400000000000003
+            }
+        ]
+    ]
+]

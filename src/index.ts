@@ -1,24 +1,31 @@
 import { Point } from "./types";
 import { createLasersAndReceivers } from "./helpers/create-lasers-and-receivers";
 import { makeGetPointThatIsBetweenTwoPoints } from "./helpers/make-get-point-that-is-between-two-points";
-import { makeGetCakeThatContainsPoint } from "./helpers/make-get-cake-that-contains-point";
+import { makeGetScopeThatContainsPoint } from "./helpers/make-get-cake-that-contains-point";
 import { getLaserLostValue } from "./helpers/get-laser-lost-value";
 import { createTList } from "./helpers/create-t-list";
 import { cakes } from "./dataset";
+import { generateFields } from "./helpers/generate-fields";
 
 const output: number[][] = [];
 
 // configurable
 const countLasers = 10;
 const countT = 1000; // higher T => more points on the line
+const n = 4;
 // end configurable
+
+const fields = generateFields(n);
+
+console.log(fields);
 
 const tList = createTList(countT);
 const lasersAndReceivers = createLasersAndReceivers(countLasers);
 
 console.log(lasersAndReceivers);
 
-const getCakeThatContainsPoint = makeGetCakeThatContainsPoint(cakes);
+const getCakeThatContainsPoint = makeGetScopeThatContainsPoint(cakes);
+const getFieldThatContainsPoint = makeGetScopeThatContainsPoint(fields);
 
 for (let i = 0; i < lasersAndReceivers.lasers.length; i++) {
   output.push([]);

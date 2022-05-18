@@ -8,8 +8,15 @@ export interface Line {
   stop: number;
 }
 
-export interface Cake {
+export interface Scope {
   x: Line;
   y: Line;
+}
+
+export interface Field extends Scope {
+  index: number;
+}
+
+export interface Cake extends Scope {
   density: number;
 }
