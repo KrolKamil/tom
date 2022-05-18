@@ -29,6 +29,13 @@ for (let i = 0; i < lasersAndReceivers.lasers.length; i++) {
 
   for (let j = 0; j < lasersAndReceivers.lasers.length; j++) {
     output[i].push([]);
+    if (
+      (i === 0 && j === 0) ||
+      (i === lasersAndReceivers.lasers.length - 1 &&
+        j === lasersAndReceivers.lasers.length - 1)
+    ) {
+      continue;
+    }
     const getPointThatIsBetweenTwoPoints = makeGetPointThatIsBetweenTwoPoints(
       lasersAndReceivers.lasers[i],
       lasersAndReceivers.receivers[j]
