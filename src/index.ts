@@ -1,87 +1,36 @@
-import { Point } from "./types";
+import { cakes } from "./datasets/dataset-2";
 import { createLasersAndReceivers } from "./helpers/create-lasers-and-receivers";
-import { makeGetPointThatIsBetweenTwoPoints } from "./helpers/make-get-point-that-is-between-two-points";
-import { makeGetScopeThatContainsPoint } from "./helpers/make-get-cake-that-contains-point";
-import { getLaserLostValue } from "./helpers/get-laser-lost-value";
 import { createTList } from "./helpers/create-t-list";
-import { cakes } from "./dataset";
 import { generateFields } from "./helpers/generate-fields";
-
-const output: number[][] = [];
+import { calculateCakes } from "./calculate-cakes";
+import { calculateFields } from "./calculate-fields";
+import { saveToJsonFile } from "./helpers/save-to-json-file";
 
 // configurable
 const countLasers = 10;
 const countT = 1000; // higher T => more points on the line
-const n = 4;
+const n = 7; // n^2 => pixels
 // end configurable
 
-const fields = generateFields(n);
+(async function () {
+  const fields = generateFields(n);
+  const tList = createTList(countT);
+  const lasersAndReceivers = createLasersAndReceivers(countLasers);
 
-console.log(fields);
+  const calculatedCakes = calculateCakes({
+    lasersAndReceivers,
+    cakes,
+    tList,
+  });
 
-const tList = createTList(countT);
-const lasersAndReceivers = createLasersAndReceivers(countLasers);
+  const calculatedFields = calculateFields({
+    lasersAndReceivers,
+    fields,
+    tList,
+  });
 
-console.log(lasersAndReceivers);
-
-const getCakeThatContainsPoint = makeGetScopeThatContainsPoint(cakes);
-const getFieldThatContainsPoint = makeGetScopeThatContainsPoint(fields);
-
-for (let i = 0; i < lasersAndReceivers.lasers.length; i++) {
-  output.push([]);
-
-  for (let j = 0; j < lasersAndReceivers.lasers.length; j++) {
-    const getPointThatIsBetweenTwoPoints = makeGetPointThatIsBetweenTwoPoints(
-      lasersAndReceivers.lasers[i],
-      lasersAndReceivers.receivers[j]
-    );
-
-    const pointsOnTheLaser = tList.map((t) =>
-      getPointThatIsBetweenTwoPoints(t)
-    );
-
-    let laserValueLost = 0;
-    let startPointWhereLaserHitSomething: Point | undefined = undefined;
-    let densityOfSomethingThatLaserHit: number | undefined = undefined;
-
-    for (let k = 0; k < pointsOnTheLaser.length; k++) {
-      const cake = getCakeThatContainsPoint(pointsOnTheLaser[k]);
-
-      if (cake) {
-        if (startPointWhereLaserHitSomething === undefined) {
-          startPointWhereLaserHitSomething = pointsOnTheLaser[k];
-          densityOfSomethingThatLaserHit = cake.density;
-        } else if (densityOfSomethingThatLaserHit !== cake.density) {
-          laserValueLost =
-            laserValueLost +
-            getLaserLostValue({
-              laserStartHitPoint: startPointWhereLaserHitSomething,
-              laserEndHitPoint: pointsOnTheLaser[k],
-              density: densityOfSomethingThatLaserHit!,
-            });
-
-          startPointWhereLaserHitSomething = pointsOnTheLaser[k];
-          densityOfSomethingThatLaserHit = cake.density;
-        }
-      } else if (
-        startPointWhereLaserHitSomething &&
-        densityOfSomethingThatLaserHit
-      ) {
-        laserValueLost =
-          laserValueLost +
-          getLaserLostValue({
-            laserStartHitPoint: startPointWhereLaserHitSomething,
-            laserEndHitPoint: pointsOnTheLaser[k],
-            density: densityOfSomethingThatLaserHit,
-          });
-
-        startPointWhereLaserHitSomething = undefined;
-        densityOfSomethingThatLaserHit = undefined;
-      }
-    }
-
-    output[i][j] = laserValueLost;
-  }
-}
-
-console.log(output);
+  await Promise.all([
+    saveToJsonFile(calculatedCakes, "zad1"),
+    saveToJsonFile(calculatedFields, "zad2"),
+  ]);
+})();

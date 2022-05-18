@@ -1,4 +1,4 @@
-import { Point } from "./../types";
+import { Point } from "../types";
 
 export const makeGetPointThatIsBetweenTwoPoints =
   (a: Point, b: Point) => (t: number) => ({

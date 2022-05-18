@@ -1,4 +1,4 @@
-import { Cake } from "./types";
+import { Cake } from "../types";
 
 const cakeA: Cake = {
   x: { start: -0.4, stop: -0.2 },

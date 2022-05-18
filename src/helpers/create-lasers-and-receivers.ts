@@ -1,6 +1,13 @@
 import { Point } from "../types";
 
-export const createLasersAndReceivers = (countElements: number) => {
+export interface LasersAndReceivers {
+  lasers: Point[];
+  receivers: Point[];
+}
+
+export const createLasersAndReceivers = (
+  countElements: number
+): LasersAndReceivers => {
   const positions: number[] = [];
 
   const spaceBetweenElements = 2 / (countElements - 1);
