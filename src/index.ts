@@ -1,4 +1,4 @@
-import { cakes } from "./datasets/dataset-2";
+import { cakes } from "./datasets/dataset-1";
 import { createLasersAndReceivers } from "./helpers/create-lasers-and-receivers";
 import { createTList } from "./helpers/create-t-list";
 import { generateFields } from "./helpers/generate-fields";
@@ -9,9 +9,10 @@ import { calculateResult } from "./calculate-result";
 import { mapResultToArray } from "./map-result-to-array";
 
 // configurable
-const countLasers = 20;
-const countT = 1000; // higher T => more points on the line
+const countLasers = 24;
+const countT = 100; // higher T => more points on the line
 const n = 20; // n^2 => pixels
+const iterations = 50;
 // end configurable
 
 (async function () {
@@ -34,6 +35,7 @@ const n = 20; // n^2 => pixels
   const calculatedResult = calculateResult({
     matrixA: calculatedFields,
     matrixB: calculatedCakes,
+    iterations,
   });
 
   const orderedResult = mapResultToArray(calculatedResult, n);
