@@ -12,7 +12,7 @@ import { mapResultToArray } from "./map-result-to-array";
 const countLasers = 24;
 const countT = 100; // higher T => more points on the line
 const n = 20; // n^2 => pixels
-const iterations = 50;
+const iterations = 200;
 // end configurable
 
 (async function () {
@@ -36,14 +36,15 @@ const iterations = 50;
     matrixA: calculatedFields,
     matrixB: calculatedCakes,
     iterations,
+    n,
   });
 
-  const orderedResult = mapResultToArray(calculatedResult, n);
+  // const orderedResult = mapResultToArray(calculatedResult, n);
 
   await Promise.all([
     saveToJsonFile(calculatedCakes, "zad1"),
     saveToJsonFile(calculatedFields, "zad2"),
     saveToJsonFile(calculatedResult, "zad3"),
-    saveToJsonFile(orderedResult, "zad33"),
+    // saveToJsonFile(orderedResult, "zad33"),
   ]);
 })();
