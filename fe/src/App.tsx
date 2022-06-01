@@ -1,20 +1,28 @@
 import React from "react";
 import "./App.css";
 import Plot from "react-plotly.js";
+import zad3 from "./zad3.json";
 
-import target from "./zad3.json";
+interface Target {
+  n: number;
+  result: number[];
+}
+
+const target: Target = zad3 as any;
 
 const out: number[][] = [];
 
-const x = target.reduce((acc, next, index) => {
-  if (index % 20 === 0) {
-    out.push([]);
-  }
+const z = target.result
+  .reduce((acc, next, index) => {
+    if (index % target.n === 0) {
+      out.push([]);
+    }
 
-  out[out.length - 1].push(next);
+    out[out.length - 1].push(next);
 
-  return acc;
-}, out);
+    return acc;
+  }, out)
+  .reverse();
 
 function App() {
   return (
@@ -23,7 +31,7 @@ function App() {
         <Plot
           data={[
             {
-              z: x,
+              z,
               type: "heatmap",
             },
           ]}

@@ -39,20 +39,6 @@ const getVectorLength = (target: number[]) => {
 const multipleVectorByValue = (target: number[], value: number) =>
   target.map((element) => element * value);
 
-const addVectors = (a: number[], b: number[]) => {
-  const result: number[] = [];
-  const biggerArray = a.length >= b.length ? a : b;
-
-  for (let i = 0; i < biggerArray.length; i++) {
-    const aa = a[i] || 0;
-    const bb = b[i] || 0;
-
-    result.push(aa + bb);
-  }
-
-  return result;
-};
-
 export const calculateResult = ({
   matrixA,
   matrixB,
@@ -62,34 +48,26 @@ export const calculateResult = ({
   let current: number[] = [];
   let next: number[] = [];
 
-  for (let aa = 0; aa < n * n; aa++) {
-    current[aa] = 0;
-    next[aa] = 0;
+  for (let i = 0; i < n * n; i++) {
+    current[i] = 0;
+    next[i] = 0;
   }
-
-  console.log(current.length);
 
   for (let k = 0; k < iterations; k++) {
     for (let i = 0; i < matrixB.length; i++) {
       for (let j = 0; j < matrixB[i].length; j++) {
         const pi = matrixB[i][j];
         const ai = matrixA[i][j].map((value) => value.distance);
+
         const aiXDotProduct = getDotProduct(matrixA[i][j], current);
         const aiLength = getVectorLength(ai);
 
         const numerator = pi - aiXDotProduct;
         const denominator = aiLength * aiLength;
 
-        const myConst = numerator / denominator;
+        const quotient = numerator / denominator;
 
-        const multpied = multipleVectorByValue(ai, myConst);
-
-        // matrixA[i][j] = matrixA[i][j].map((value, index) => {
-        //   return {
-        //     fieldId: matrixA[i][j][index].fieldId,
-        //     distance: multpied[index],
-        //   };
-        // });
+        const multpied = multipleVectorByValue(ai, quotient);
 
         for (let n = 0; n < matrixA[i][j].length; n++) {
           const index = matrixA[i][j][n].fieldId;
@@ -104,7 +82,8 @@ export const calculateResult = ({
     }
   }
 
-  return JSON.parse(JSON.stringify(current)).map((value: any) =>
-    value ? value : 0
-  );
+  return {
+    n,
+    result: current,
+  };
 };
