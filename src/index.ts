@@ -6,12 +6,13 @@ import { calculateCakes } from "./calculate-cakes";
 import { calculateFields } from "./calculate-fields";
 import { saveToJsonFile } from "./helpers/save-to-json-file";
 import { calculateResult } from "./calculate-result";
+import { calculateAbsoluteErrors } from "./calculate-absolute-errors";
 
 // configurable
-const countLasers = 24;
+const countLasers = 20;
 const countT = 100; // higher T => more points on the line
 const n = 20; // n^2 => pixels
-const iterations = 200;
+const iterations = 100;
 // end configurable
 
 (async function () {
@@ -38,9 +39,19 @@ const iterations = 200;
     n,
   });
 
+  const calculatedAbsoluteErrors = calculateAbsoluteErrors({
+    n,
+    fields,
+    result: calculatedResult.result,
+    cakes,
+  });
+
   await Promise.all([
     saveToJsonFile(calculatedCakes, "zad1"),
     saveToJsonFile(calculatedFields, "zad2"),
-    saveToJsonFile(calculatedResult, "zad3"),
+    saveToJsonFile(
+      { ...calculatedResult, errors: calculatedAbsoluteErrors },
+      "zad3"
+    ),
   ]);
 })();
