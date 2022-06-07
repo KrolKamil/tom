@@ -35,9 +35,10 @@ export const calculateAbsoluteErrors = ({
     }
   }
 
-  return out;
-
-  return out.map((value, index) => {
-    return Math.abs(value - result[index]);
-  });
+  return {
+    real: out,
+    error: out.map((value, index) => {
+      return Math.abs(value - result[index]);
+    }),
+  };
 };

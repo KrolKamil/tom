@@ -48,7 +48,7 @@ export const calculateResult = ({
   let current: number[] = [];
   let next: number[] = [];
 
-  for (let i = 0; i < n * n; i++) {
+  for (let i = 1; i < n * n + 1; i++) {
     current[i] = 0;
     next[i] = 0;
   }
@@ -81,6 +81,8 @@ export const calculateResult = ({
       }
     }
   }
+
+  current.shift();
 
   return {
     n,

@@ -7,6 +7,7 @@ interface Target {
   n: number;
   result: number[];
   errors: number[];
+  real: number[];
 }
 
 const target: Target = zad3 as any;
@@ -24,13 +25,12 @@ const parseToZ = (x: number[], n: number) => {
     return acc;
   }, out).reverse();
 
-  out.shift();
-
   return out;
 };
 
 let z = parseToZ(target.result, target.n);
 let zErrors = parseToZ(target.errors, target.n);
+let zReal = parseToZ(target.real, target.n);
 
 function App() {
   return (
@@ -88,6 +88,35 @@ function App() {
             ]}
             layout={{
               title: "Errors 3d",
+              autosize: true,
+              width: 500,
+              height: 500,
+            }}
+          />
+        </div>
+        <div>
+          <Plot
+            data={[
+              {
+                z: zReal,
+                type: "heatmap",
+              },
+            ]}
+            layout={{
+              title: "Real 2d",
+              width: 500,
+              height: 500,
+            }}
+          />
+          <Plot
+            data={[
+              {
+                z: zReal,
+                type: "surface",
+              },
+            ]}
+            layout={{
+              title: "Real 3d",
               autosize: true,
               width: 500,
               height: 500,

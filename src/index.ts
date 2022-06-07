@@ -50,7 +50,11 @@ const iterations = 100;
     saveToJsonFile(calculatedCakes, "zad1"),
     saveToJsonFile(calculatedFields, "zad2"),
     saveToJsonFile(
-      { ...calculatedResult, errors: calculatedAbsoluteErrors },
+      {
+        ...calculatedResult,
+        errors: calculatedAbsoluteErrors.error,
+        real: calculatedAbsoluteErrors.real,
+      },
       "zad3"
     ),
   ]);
