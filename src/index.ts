@@ -9,10 +9,10 @@ import { calculateResult } from "./calculate-result";
 import { calculateAbsoluteErrors } from "./calculate-absolute-errors";
 
 // configurable
-const countLasers = 20;
+const countLasers = 24;
 const countT = 100; // higher T => more points on the line
 const n = 20; // n^2 => pixels
-const iterations = 100;
+const iterations = 200;
 // end configurable
 
 (async function () {

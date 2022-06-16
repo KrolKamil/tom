@@ -1,43 +1,13 @@
+import { getDotProduct } from "./helpers/get-dot-product";
+import { getVectorLength } from "./helpers/get-vector-length";
+import { multipleVectorByValue } from "./helpers/multiple-vector-by-value";
+
 interface CalculateResultInput {
   matrixA: { fieldId: number; distance: number }[][][]; // zad2
   matrixB: number[][]; // zad1
   iterations: number;
   n: number;
 }
-
-const getDotProduct = (
-  matriAVector: {
-    fieldId: number;
-    distance: number;
-  }[],
-  b: number[]
-) => {
-  let result = 0;
-  const biggerArray = matriAVector.length >= b.length ? matriAVector : b;
-
-  for (let i = 0; i < biggerArray.length; i++) {
-    const index = matriAVector[i]?.fieldId || -1;
-    const aa = matriAVector[i]?.distance || 0;
-    const bb = b[index] || 0;
-
-    result = aa * bb + result;
-  }
-
-  return result;
-};
-
-const getVectorLength = (target: number[]) => {
-  let result = 0;
-
-  for (let i = 0; i < target.length; i++) {
-    result = result + target[i] * target[i];
-  }
-
-  return Math.sqrt(result);
-};
-
-const multipleVectorByValue = (target: number[], value: number) =>
-  target.map((element) => element * value);
 
 export const calculateResult = ({
   matrixA,
@@ -59,7 +29,10 @@ export const calculateResult = ({
         const pi = matrixB[i][j];
         const ai = matrixA[i][j].map((value) => value.distance);
 
-        const aiXDotProduct = getDotProduct(matrixA[i][j], current);
+        const aiXDotProduct = getDotProduct({
+          vector: matrixA[i][j],
+          b: current,
+        });
         const aiLength = getVectorLength(ai);
 
         const numerator = pi - aiXDotProduct;
